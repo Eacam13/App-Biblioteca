@@ -33,11 +33,11 @@ Este é um aplicativo de biblioteca simples desenvolvido em React Native.
 
 # Telas do Aplicativo
 <div style="display: flex; justify-content: space-evely;">
-  <img src="/telaHome.jpeg" alt="Tela Home" width="200"/>
-  <img src="/telaLivros.jpeg" alt="Tela Livros" width="200"/>
-  <img src="/telaEditar.jpeg" alt="Tela Editar" width="200"/>
-  <img src="/telaEmprestar.jpeg" alt="Tela Emprestar" width="200"/>
-  <img src="/telaDeletar.jpeg" alt="Tela Deletar" width="200"/>
+  <img src="/telaHome.jpeg" alt="Tela Home" width="100"/>
+  <img src="/telaLivros.jpeg" alt="Tela Livros" width="100"/>
+  <img src="/telaEditar.jpeg" alt="Tela Editar" width="100"/>
+  <img src="/telaEmprestar.jpeg" alt="Tela Emprestar" width="100"/>
+  <img src="/telaDeletar.jpeg" alt="Tela Deletar" width="100"/>
 </div>
 
 
