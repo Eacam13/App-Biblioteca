@@ -17,7 +17,7 @@ Este é um aplicativo de biblioteca simples desenvolvido em React Native.
   
 # Como executar o aplicativo
 - Certifique-se de ter o ambiente de desenvolvimento React Native configurado em sua máquina.
-- Clone este repositório: git clone https://github.com/seu-usuario/biblioteca-app.
+- Clone este repositório: git clone https://github.com/Eacam13/App-Biblioteca.git
 - Navegue até o diretório do projeto: cd biblioteca-app.
 - Instale as dependências: npm install.
 - Execute o aplicativo: npm start ou expo start.
@@ -32,7 +32,14 @@ Este é um aplicativo de biblioteca simples desenvolvido em React Native.
 - Navegação entre telas com React Navigation.
 
 # Telas do Aplicativo
-![Descrição da Imagem](/telaHome.jpeg)
+<div style="display: flex; justify-content: space-evely;">
+  <img src="/telaHome.jpeg" alt="Tela Home" width="200"/>
+  <img src="/telaLivros.jpeg" alt="Tela Livros" width="200"/>
+  <img src="/telaEditar.jpeg" alt="Tela Editar" width="200"/>
+  <img src="/telaEmprestar.jpeg" alt="Tela Emprestar" width="200"/>
+  <img src="/telaDeletar.jpeg" alt="Tela Deletar" width="200"/>
+</div>
+
 
 # Licença
 - Este projeto está licenciado sob a Licença MIT.
